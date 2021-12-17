@@ -4,17 +4,17 @@
 This project is to do research quantum in AI field. We created hybrid Neural Network with quantum circuit (IBM Qiskit) and CNN, and tried the model in different tasks such as classifying grayscale number image in MNIST Dataset and colorful pets image in The Oxford-IIIT Pet Dataset. 
 
 ## Structure
-![Hybrid Neural Network](image\hnn.png?raw=true)
+<img src="image/hnn.png" alt="Hybrid Neural Network" width="50%"/>
 <center style="font-size:14px;color:#C0C0C0;">Quantum Circuit with CNN</center>
 <br>
 
 ## Datasets
-![MNIST Dataset](image\mnist.png?raw=true)
+<img src="image/mnist.png" alt="MNIST Dataset" width="50%"/>
 <center style="font-size:14px;color:#C0C0C0;">MNIST Dataset</center>
 <br>
 <br>
 
-![The Oxford-IIIT Pet Dataset](image\Oxford-IIIT_Pet.png?raw=true)
+<img src="image/Oxford-IIIT_Pet.png" alt="The Oxford-IIIT Pet Dataset"/>
 <center style="font-size:14px;color:#C0C0C0;">The Oxford-IIIT Pet Dataset</center>
 <br>
 
@@ -27,7 +27,7 @@ This project is to do research quantum in AI field. We created hybrid Neural Net
 We used different amount of quantum in quantum circuit and compared the result in classifying cats and dogs of hybrid neural network with tanh and sigmoid function, found out the accuracy of hybrid neural network had no significant differences.
 <br>
 
-![MNIST Result](image\mnist_result.png?raw=true)
+<img src="image/mnist_result.png" alt="MNIST Result" width="70%"/>
 <center style="font-size:14px;color:#C0C0C0;">Handwriting Number Test Result</center>
 <br>
 
