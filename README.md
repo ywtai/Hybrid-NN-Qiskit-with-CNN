@@ -4,12 +4,15 @@
 This project is to do research quantum in AI field. We created hybrid Neural Network with quantum circuit (IBM Qiskit) and CNN, and tried the model in different tasks such as classifying grayscale number image in MNIST Dataset and colorful pets image in The Oxford-IIIT Pet Dataset. 
 
 ## Structure
+Below is the main structure of the hybrid neural network.
 <div align="center"><img src="image/hnn.png" alt="Hybrid Neural Network" width="50%"/></div>
 <div align="center" style="font-size:14px;color:#C0C0C0;">Quantum Circuit with CNN</div>
 <br>
 
 
 ## Datasets
+We used handwriting number in MNIST Dataset and pets image in The Oxford-IIIT Pet Dataset.
+
 <div align="center"><img src="image/mnist.png" alt="MNIST Dataset" width="50%"/></div>
 <div align="center" style="font-size:14px;color:#C0C0C0;">MNIST Dataset</div>
 <br>
