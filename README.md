@@ -1,6 +1,5 @@
 # Hybrid Neural Network with Qiskit and CNN
 
-## Description
 This project is to research quantum usage in AI field. We created hybrid Neural Network with quantum circuit (IBM Qiskit) and CNN, and tried the model in different tasks such as classifying grayscale number image in MNIST Dataset and colorful pets image in The Oxford-IIIT Pet Dataset. 
 
 ## Structure
